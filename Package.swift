@@ -2,9 +2,9 @@ import PackageDescription
 
 let package = Package(
     name: "SSHApi",
-    pkgConfig: "libssh2",
+    pkgConfig: "libssh",
     providers:[
-    .Apt("libssh2-1-dev"),
-    .Brew("libssh2")
+    .Apt("libssh-dev"),
+    .Brew("libssh")
     ]   
 )

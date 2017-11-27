@@ -41,9 +41,13 @@
 
 
 
-This project is a wrapper of libssh2 in Swift.
+This project is a wrapper of libssh in Swift.
 
 This package builds with Swift Package Manager and is part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project and is not suggested to use as an independent module.
+
+## License
+
+Agree to [libssh's license](https://www.libssh.org/development/)
 
 ## Issues
 
